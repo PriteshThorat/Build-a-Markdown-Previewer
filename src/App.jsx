@@ -12,7 +12,7 @@ function App() {
       <Editor />
       <Previewer />
     </div>
-  )
+  );
 }
 
 export default App
